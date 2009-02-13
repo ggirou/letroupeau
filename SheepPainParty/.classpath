@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="tryLwjglWindow.java|View/MainWindow_Old.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/lwjgl/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/jME/jME_2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
