@@ -1,0 +1,1 @@
+-Djava.library.path="lib\lwjgl\native\win32" -Djava.classpath="lib\lwjgl\jar"
